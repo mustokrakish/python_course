@@ -1,6 +1,5 @@
 import datetime
 a = input('Enter the year of your birth here:')
-
 try:
     a = int(a)
 except ValueError:
