@@ -16,7 +16,7 @@ def arithmetic(a, b, action):
 
 
 if __name__ == "__main__":
-    aa = int(input("Input A"))
-    bb = int(input("Input B"))
-    aaction = input("Input mathematical sign")
+    aa = int(input("Input A \n"))
+    bb = int(input("Input B \n"))
+    aaction = input("Input mathematical sign \n")
     print(arithmetic(aa, bb, aaction))
